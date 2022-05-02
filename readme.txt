@@ -1,6 +1,3 @@
-SONAL CHADHA
-010850985
-
 Please follow the steps below to run the ATM Socket Program on turing.csce.uark.edu:
 
 1) Download the server.py and client.py files to your local system.
